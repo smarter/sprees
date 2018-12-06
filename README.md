@@ -43,6 +43,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [scalajs-bundler], [endpoints], [scalac] | @julienrf |  
 | [coursier] — Library and CLI tool to manage dependencies | @alexarchambault | 
 | [cats], [cats-collections], [cats-mtl] | @larsrh |
+| [dotty] - The research compiler that will become Scala 3                                  | [@smarter] | 
 | Add your project here!                                                                    |                     |
 
 [coursier]:  https://github.com/coursier/coursier
